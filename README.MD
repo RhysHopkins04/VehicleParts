@@ -26,14 +26,12 @@
    gradlew Build
 ```
 - Use intellij to open the project file:
-
 ```ruby
-   (.project)
+   .project
 ```
-- Or use eclipse to open the project:
-
+- Or use eclipse to open the project: (set the project directory to be)
 ```ruby
-   (set the project directory to be /PATH/TO/FILES/VehicleParts/eclipse/)
+    /PATH/TO/FILES/VehicleParts/eclipse/
 ```
 
 
