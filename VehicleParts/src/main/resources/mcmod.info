@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vp",
+  "name": "Vehicle Parts Mod",
+  "description": "A Vehicle Parts Mod made for the Wargames Official Server",
+  "version": "0.5"
+  "mcversion": "1.7.10",
+  "url": "discord.wargames.uk",
+  "updateUrl": "",
+  "authorList": ["Glac","BarrackOsama"],
+  "credits": "Credits to xRadar & NTM by HBM for the textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
