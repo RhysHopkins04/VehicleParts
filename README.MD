@@ -60,6 +60,31 @@ For when i have made changes that you need but haven't been bothered to send you
 
 ## Contributing
 If you want to make some changes to the mod yourself instead of just asking me to change things, follow this guide below, **PLEASE I BEG JUST DO IT YOURSELF**:
+Some of the content below may be incorrect since i cannot remember what i did, 
+
+<details>
+<summary>If you are having issues:</summary>
+
+### Please also check the README.txt file if things are not working, the main points can be seen below in the code blocks:
+
+```ruby
+   gradlew idea
+```
+
+OR
+
+```ruby
+   gradlew eclipse
+```
+
+AND OR
+
+```ruby
+   gradlew clean setDecompWorkspace (idea) or (eclipse)
+```
+
+</details>
+
 1. Follow steps 1-2 from *Building from source* section
 2. Create a directory where the repository will reside, using a name that is not "VehicleParts"
 3. Download the forge src from [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.7.10.html) and extract it into the directory.
